@@ -1,8 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{+w}{ }\PYG{k}{class}\PYG{+w}{ }\PYG{n+nc}{Rectangle}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
-\PYG{+w}{   }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{width}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{length}\PYG{p}{;}
-\PYG{+w}{ }\PYG{k}{public}\PYG{o}{:}
-\PYG{+w}{   }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n}{set\PYGZus{}values}\PYG{p}{(}\PYG{k+kt}{int}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{int}\PYG{p}{)}\PYG{p}{;}
-\PYG{+w}{   }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n+nf}{area}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{)}\PYG{p}{;}
-\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{n}{rect}\PYG{p}{;}
-\end{MintedVerbatim}

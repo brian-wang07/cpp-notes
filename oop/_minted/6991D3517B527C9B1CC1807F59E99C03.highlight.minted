@@ -1,3 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{Cylinder}\PYG{o}{:}\PYG{o}{:}\PYG{n}{Cylinder}\PYG{p}{(}\PYG{k+kt}{double}\PYG{+w}{ }\PYG{n}{r}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{double}\PYG{+w}{ }\PYG{n}{h}\PYG{p}{)}\PYG{+w}{ }\PYG{o}{:}\PYG{+w}{ }\PYG{n}{base}\PYG{p}{\PYGZob{}}\PYG{n}{r}\PYG{p}{\PYGZcb{}}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{height}\PYG{p}{\PYGZob{}}\PYG{n}{h}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{c+c1}{//with \PYGZob{}\PYGZcb{} syntax}
-\end{MintedVerbatim}

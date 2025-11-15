@@ -1,9 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{k}{template}\PYG{+w}{ }\PYG{o}{\PYGZlt{}}\PYG{k}{class}\PYG{+w}{ }\PYG{n+nc}{T}\PYG{o}{\PYGZgt{}}
-\PYG{k}{class}\PYG{+w}{ }\PYG{n+nc}{MyPair}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
-\PYG{+w}{  }\PYG{n}{T}\PYG{+w}{ }\PYG{n}{values}\PYG{p}{[}\PYG{l+m+mi}{2}\PYG{p}{]}\PYG{p}{;}
-\PYG{k}{public}\PYG{o}{:}
-\PYG{+w}{  }\PYG{n}{MyPair}\PYG{p}{(}\PYG{k}{const}\PYG{+w}{ }\PYG{n}{T}\PYG{+w}{ }\PYG{p}{(}\PYG{o}{\PYGZam{}}\PYG{n}{arr}\PYG{p}{)}\PYG{p}{[}\PYG{l+m+mi}{2}\PYG{p}{]}\PYG{p}{)}\PYG{+w}{ }\PYG{o}{:}\PYG{+w}{ }\PYG{n}{value}\PYG{p}{\PYGZob{}}\PYG{n}{arr}\PYG{p}{[}\PYG{l+m+mi}{0}\PYG{p}{]}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{arr}\PYG{p}{[}\PYG{l+m+mi}{1}\PYG{p}{]}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{p}{\PYGZcb{}}
-\PYG{+w}{  }\PYG{p}{\PYGZcb{}}
-\PYG{p}{\PYGZcb{}}\PYG{p}{;}
-\end{MintedVerbatim}

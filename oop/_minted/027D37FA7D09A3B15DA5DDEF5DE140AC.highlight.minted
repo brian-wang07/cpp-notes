@@ -1,4 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{Example5}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}}\PYG{l+s}{Example}\PYG{l+s}{\PYGZdq{}}\PYG{p}{)}\PYG{p}{;}
-\PYG{n}{Example5}\PYG{+w}{ }\PYG{n}{bar}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{std}\PYG{o}{:}\PYG{o}{:}\PYG{n}{move}\PYG{p}{(}\PYG{n}{foo}\PYG{p}{)}\PYG{+w}{ }\PYG{c+c1}{//move constructor invoked: foo is valid but unspecified, and bar contains \PYGZdq{}Example\PYGZdq{}}
-\end{MintedVerbatim}

@@ -1,5 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{MyPair}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{int}\PYG{o}{\PYGZgt{}}\PYG{+w}{ }\PYG{n}{myInt}\PYG{p}{(}\PYG{l+m+mi}{115}\PYG{p}{,}\PYG{+w}{ }\PYG{l+m+mi}{36}\PYG{p}{)}\PYG{p}{;}
-\PYG{n}{MyPair}\PYG{o}{\PYGZlt{}}\PYG{k+kt}{double}\PYG{o}{\PYGZgt{}}\PYG{+w}{ }\PYG{n}{myFloats}\PYG{p}{(}\PYG{l+m+mf}{3.0}\PYG{p}{,}\PYG{+w}{ }\PYG{l+m+mf}{2.18}\PYG{p}{)}\PYG{p}{;}
-\PYG{n}{MyPair}\PYG{o}{\PYGZlt{}}\PYG{n}{std}\PYG{o}{:}\PYG{o}{:}\PYG{n}{string}\PYG{o}{\PYGZgt{}}\PYG{+w}{ }\PYG{n}{myStrings}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}}\PYG{l+s}{hello}\PYG{l+s}{\PYGZdq{}}\PYG{p}{,}\PYG{+w}{ }\PYG{l+s}{\PYGZdq{}}\PYG{l+s}{world}\PYG{l+s}{\PYGZdq{}}\PYG{p}{)}\PYG{p}{;}
-\end{MintedVerbatim}

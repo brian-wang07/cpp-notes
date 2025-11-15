@@ -1,3 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{k}{template}\PYG{+w}{ }\PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZgt{}}\PYG{+w}{ }\PYG{k}{class}\PYG{+w}{ }\PYG{n+nc}{myContainer}\PYG{+w}{ }\PYG{o}{\PYGZlt{}}\PYG{k+kt}{char}\PYG{o}{\PYGZgt{}}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{p}{.}\PYG{p}{.}\PYG{p}{.}\PYG{p}{\PYGZcb{}}\PYG{p}{;}
-\end{MintedVerbatim}

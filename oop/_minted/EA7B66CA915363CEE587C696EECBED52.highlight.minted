@@ -1,3 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{result}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{.}\PYG{k}{operator}\PYG{o}{+}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{bar}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//8,3}
-\end{MintedVerbatim}

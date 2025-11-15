@@ -1,5 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n+nf}{get}\PYG{p}{(}\PYG{p}{)}\PYG{+w}{ }\PYG{k}{const}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{k}{return}\PYG{+w}{ }\PYG{n}{x}\PYG{p}{;}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{c+c1}{//const member function}
-\PYG{k}{const}\PYG{+w}{ }\PYG{k+kt}{int}\PYG{o}{\PYGZam{}}\PYG{+w}{ }\PYG{n+nf}{get}\PYG{p}{(}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{k}{return}\PYG{+w}{ }\PYG{n}{x}\PYG{p}{;}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{c+c1}{//nonconst member function returning a const\PYGZam{}}
-\PYG{k}{const}\PYG{+w}{ }\PYG{k+kt}{int}\PYG{o}{\PYGZam{}}\PYG{+w}{ }\PYG{n+nf}{get}\PYG{p}{(}\PYG{p}{)}\PYG{+w}{ }\PYG{k}{const}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{k}{return}\PYG{+w}{ }\PYG{n}{x}\PYG{p}{;}\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{c+c1}{//const member function returning a const\PYGZam{}}
-\end{MintedVerbatim}

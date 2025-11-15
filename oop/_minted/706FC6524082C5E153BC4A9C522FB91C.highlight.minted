@@ -1,9 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{k}{class}\PYG{+w}{ }\PYG{n+nc}{ClassName}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
-\PYG{n+nl}{accessSpecifier1}\PYG{p}{:}
-\PYG{+w}{  }\PYG{n}{member1}\PYG{p}{;}
-\PYG{n+nl}{accessSpecifier2}\PYG{p}{:}
-\PYG{+w}{  }\PYG{n}{member2}\PYG{p}{;}
-\PYG{+w}{    }\PYG{p}{.}\PYG{p}{.}\PYG{p}{.}
-\PYG{p}{\PYGZcb{}}\PYG{+w}{ }\PYG{n}{objectNames}\PYG{p}{;}
-\end{MintedVerbatim}

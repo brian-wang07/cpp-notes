@@ -1,8 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n+nf}{fn}\PYG{p}{(}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//function returning a MyClass object}
-\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//default constructor}
-\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n}{bar}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//copy constructor}
-\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n}{baz}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{fn}\PYG{p}{(}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//move constructor}
-\PYG{n}{foo}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{bar}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//copy assignment}
-\PYG{n}{baz}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{MyClass}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//move assignment; equal to baz = MyClass temp\PYGZob{}\PYGZcb{};}
-\end{MintedVerbatim}
