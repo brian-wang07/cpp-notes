@@ -1,0 +1,3 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{type}\PYG{+w}{ }\PYG{k}{operator}\PYG{+w}{ }\PYG{n}{sign}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{parameters}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}\PYG{n}{body}\PYG{p}{\PYGZcb{}}
+\end{MintedVerbatim}

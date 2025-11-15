@@ -1,0 +1,5 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{Example2}\PYG{+w}{ }\PYG{n+nf}{myObj}\PYG{p}{(}\PYG{l+m+mi}{100}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//Okay: implicitly calls constructor}
+\PYG{n}{Example2}\PYG{+w}{ }\PYG{n}{myObj}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{Example2}\PYG{p}{(}\PYG{l+m+mi}{100}\PYG{p}{)}\PYG{+w}{ }\PYG{c+c1}{//Okay: explicitly call constructor}
+\PYG{n}{Example2}\PYG{+w}{ }\PYG{n}{ex}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//Not valid: no default constructor provided.}
+\end{MintedVerbatim}

@@ -1,0 +1,4 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{x}\PYG{p}{\PYGZob{}}\PYG{l+m+mf}{3.14}\PYG{p}{\PYGZcb{}}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//ERROR: Narrowing conversion}
+\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n+nf}{y}\PYG{p}{(}\PYG{l+m+mf}{3.14}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//Allowed, however y becomes 3.}
+\end{MintedVerbatim}

@@ -1,0 +1,6 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{;}
+\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n+nf}{bar}\PYG{p}{(}\PYG{n}{foo}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//object declaration: copy constructor invoked}
+\PYG{n}{MyClass}\PYG{+w}{ }\PYG{n}{baz}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{foo}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//object declaration: copy constructor invoked}
+\PYG{n}{foo}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{bar}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//object assignment: copy assignment invoked}
+\end{MintedVerbatim}

@@ -1,0 +1,4 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{MyClass}\PYG{+w}{ }\PYG{p}{(}\PYG{n}{MyClass}\PYG{o}{\PYGZam{}}\PYG{o}{\PYGZam{}}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{//move constructor: takes a rvalue reference}
+\PYG{n}{MyClass}\PYG{o}{\PYGZam{}}\PYG{+w}{ }\PYG{k}{operator}\PYG{o}{=}\PYG{p}{(}\PYG{n}{MyClass}\PYG{o}{\PYGZam{}}\PYG{o}{\PYGZam{}}\PYG{p}{)}\PYG{p}{;}\PYG{+w}{ }\PYG{n}{move}\PYG{+w}{ }\PYG{n}{assignment}
+\end{MintedVerbatim}
