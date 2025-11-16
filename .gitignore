@@ -5,3 +5,5 @@
 !*.pdf
 
 !.gitignore
+
+*notes.pdf
